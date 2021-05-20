@@ -1,4 +1,4 @@
-
+document.charset="UTF-8"
 var aparted = false;
 
 $("#open").click(function(){
